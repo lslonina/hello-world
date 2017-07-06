@@ -1,2 +1,4 @@
 # hello-world
-learning git
+Learning git
+
+This is very simple project.
